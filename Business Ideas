@@ -2,8 +2,9 @@
 
 A simple list to add, remove, or modify business ideas. Add each idea as a bullet point below.
 
-- develop a mobile game like greedy snake
+- develop a mobile game like greedy snake (similar to MS mine digging in Windows 98)
   - Requirements:
     - The game should be fun to play
     - Doesn't need network access
+    - The app can keep the score
 - help to find keys
