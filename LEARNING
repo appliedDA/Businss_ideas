@@ -4,6 +4,11 @@ A simple list to plan what you need to learn and track what you've already learn
 
 ## To Learn
 - [ ] MCP
+- [ ] Agent based RCA
+  - Design an agent that can interact with engineers when tackling a specific trouble report:
+    - Look up similar trouble reports
+    - Generate proposals during interaction
+    - Act as a chatbox for real-time assistance
 - [ ] Topic or skill to learn
 
 ## Learned
