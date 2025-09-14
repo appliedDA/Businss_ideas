@@ -8,3 +8,26 @@ A simple list to add, remove, or modify business ideas. Add each idea as a bulle
     - Doesn't need network access
     - The app can keep the score
 - help to find keys
+- RCA further work
+  - read Jira ticket by Jupyter notebook
+  - Example: Combine T5 and RAG for enhanced document question answering
+    - Use T5 for text generation and RAG (Retrieval-Augmented Generation) to fetch relevant documents from a knowledge base before generating answers.
+    - Simple workflow:
+      1. User asks a question.
+      2. RAG retrieves relevant documents.
+      3. T5 generates an answer using the retrieved context.
+  - Human-involved evaluation
+    - Evaluation Process:
+      1. Select a sample of generated answers or insights.
+      2. Assign evaluators to review each sample.
+      3. Collect feedback and ratings based on defined criteria.
+      4. Aggregate results and identify areas for improvement.
+    - Criteria:
+      - Accuracy and correctness
+      - Relevance to the question or context
+      - Clarity and completeness
+      - Usefulness and actionable value
+    - Potentially Involved Roles:
+      - Subject matter experts (e.g., domain specialists)
+      - End users or stakeholders
+      - Data scientists or AI researchers
